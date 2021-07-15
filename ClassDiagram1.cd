@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсач.Adv">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACBAACBAAACAAAAKAAAAAAAAAAACAgAAAAA=</HashCode>
+      <FileName>Adv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.Analis">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACBAACBBAACAAAAKAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Analis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.Archive">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>PKCACSEIQSBtW3BTBAGAjQRuZpw7kD8O1mEzwBZ5FAg=</HashCode>
+      <FileName>Archive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.Connect">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQBAACAAABAAAACAQAACAAAYAAAABGChAAAAEAg=</HashCode>
+      <FileName>Connect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.Document">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAQABAKAAADACABCAAAADBEQYAAIiFGAjAAAUEAg=</HashCode>
+      <FileName>Document.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.gradientGrid">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\GradientDataGridView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.GradientPanel">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAQAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\GradientPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.Main">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAQCAAAAAAAACAAAACAEA4AAACBHApQAAAEAg=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.Tovars">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAQAAACAEAAAAAACAAAACAAAAAEAAAEAAAAAAAAA=</HashCode>
+      <FileName>Reports\Tovars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.Reports.Adverticement">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAABACAAAACAAAAAAAAAAAAAABQIAA=</HashCode>
+      <FileName>Reports\Adverticement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.Reports.Contract">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAIACAAAACAAAgAQAAAAAAAABAAAA=</HashCode>
+      <FileName>Reports\Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсач.Reports.PotentialCl">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAAACAAAACAAAIAAEAAAAAAABIAAA=</HashCode>
+      <FileName>Reports\PotentialCl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
